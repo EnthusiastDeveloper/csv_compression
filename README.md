@@ -1,4 +1,4 @@
-# csv_compression
+# CSV Compression
 Python 3 console apps for lossless compression and de-compression for a low entropy CSV format files.
 
 	Usage:
